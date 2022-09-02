@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T03:34:54.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="csUzPTDZQVm9Hxv5eMq9" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T03:36:04.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="UdhN-qbrZ-nID_fuJtTB" version="20.2.7" type="github">
   <diagram id="czq2NwJjlsjAraEdjovs" name="第 1 页">
     <mxGraphModel dx="1016" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hmzTRBHMW24GZiser8V7-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="410" width="170" height="100" as="geometry" />
+          <mxGeometry x="100" y="80" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hmzTRBHMW24GZiser8V7-7" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="hmzTRBHMW24GZiser8V7-12">
           <mxGeometry width="170" height="100" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hmzTRBHMW24GZiser8V7-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400" y="410" width="170" height="100" as="geometry" />
+          <mxGeometry x="350" y="80" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hmzTRBHMW24GZiser8V7-14" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="hmzTRBHMW24GZiser8V7-13">
           <mxGeometry width="170" height="100" as="geometry" />
@@ -23,12 +23,30 @@
           <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hmzTRBHMW24GZiser8V7-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="580" width="170" height="100" as="geometry" />
+          <mxGeometry x="100" y="255" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hmzTRBHMW24GZiser8V7-17" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="hmzTRBHMW24GZiser8V7-16">
           <mxGeometry width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hmzTRBHMW24GZiser8V7-18" value="coupon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;comic=1;sketch=0;jiggle=1;fontFamily=Verdana;fontSize=5;" vertex="1" parent="hmzTRBHMW24GZiser8V7-16">
+          <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmzTRBHMW24GZiser8V7-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="260" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hmzTRBHMW24GZiser8V7-20" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="hmzTRBHMW24GZiser8V7-19">
+          <mxGeometry width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hmzTRBHMW24GZiser8V7-21" value="promo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;comic=1;sketch=0;jiggle=1;fontFamily=Verdana;fontSize=5;" vertex="1" parent="hmzTRBHMW24GZiser8V7-19">
+          <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmzTRBHMW24GZiser8V7-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="410" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hmzTRBHMW24GZiser8V7-23" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="hmzTRBHMW24GZiser8V7-22">
+          <mxGeometry width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hmzTRBHMW24GZiser8V7-24" value="order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;comic=1;sketch=0;jiggle=1;fontFamily=Verdana;fontSize=5;" vertex="1" parent="hmzTRBHMW24GZiser8V7-22">
           <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
