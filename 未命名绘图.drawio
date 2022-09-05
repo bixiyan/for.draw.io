@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T08:02:38.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.8" etag="EMu0f8iIEtBUtLEOTaeM" type="github"><diagram id="0G0_bFfPiu2x_rY5T0mG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-05T08:07:03.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZQkatE0mG6zgHPPkK-G7" version="20.2.8" type="github">
+  <diagram id="0G0_bFfPiu2x_rY5T0mG" name="第 1 页">
+    <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-crUn6ps0d602G-CeQ97-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="870" width="691" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-8" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-9" value="Redis*15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;comic=1;sketch=0;jiggle=1;fontFamily=Verdana;fontSize=5;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="-8.974025974025974" y="-8.399999999999999" width="106.0999090909091" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-14" value="accept*3" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="20" y="35.6" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-15" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="140" y="35.60000000000002" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-16" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="20" y="120" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-17" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="140" y="120" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-18" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="260" y="35.60000000000002" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-19" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="260" y="120" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-20" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="140" y="200.00000000000003" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-21" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="20" y="200" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-22" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="-crUn6ps0d602G-CeQ97-7">
+          <mxGeometry x="260" y="200" width="64.76" height="54.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-crUn6ps0d602G-CeQ97-13" value="Subnet-db01(10.138.5.*)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
