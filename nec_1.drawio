@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T05:52:50.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LTGuMTliTQFWzDX_oDbN" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T05:54:31.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WrIL76LCKrqA0ryF9LgN" version="20.2.8" type="github">
   <diagram id="SoZa_4AcdHNvvdQ_9TMP" name="第 1 页">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
         <mxCell id="784cbDrwxi_V3fQU1oRy-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/multimedia-flat-19/32/Photo-128.png" vertex="1" parent="784cbDrwxi_V3fQU1oRy-15">
           <mxGeometry x="30" y="50" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="784cbDrwxi_V3fQU1oRy-32" value="papi-openrestry*2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/wp.png" vertex="1" parent="784cbDrwxi_V3fQU1oRy-15">
-          <mxGeometry x="160" y="45" width="70" height="70" as="geometry" />
+        <mxCell id="784cbDrwxi_V3fQU1oRy-33" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;papi-openrestry*2&lt;/span&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="784cbDrwxi_V3fQU1oRy-15">
+          <mxGeometry x="180" y="143" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460" y="280" width="270" height="240" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="784cbDrwxi_V3fQU1oRy-25" value="Static Resource*2" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="784cbDrwxi_V3fQU1oRy-20">
           <mxGeometry x="160" y="50" width="38" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="784cbDrwxi_V3fQU1oRy-31" value="Static Resource*2" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="784cbDrwxi_V3fQU1oRy-20">
+        <mxCell id="784cbDrwxi_V3fQU1oRy-31" value="public*2" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="784cbDrwxi_V3fQU1oRy-20">
           <mxGeometry x="106" y="140" width="38" height="50" as="geometry" />
         </mxCell>
       </root>
