@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T02:41:39.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Vzqh-_dGCZNz_6wO-mMb" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T02:58:05.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="K7xNhEdfyS5w2seTaE4n" version="20.2.8" type="github">
   <diagram id="SoZa_4AcdHNvvdQ_9TMP" name="第 1 页">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,16 +35,34 @@
           <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticsearch_service;fillColor=#F58534;gradientColor=none;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
-          <mxGeometry x="29" y="50" width="51" height="50" as="geometry" />
+          <mxGeometry x="50" y="50" width="51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="440" y="570" width="270" height="240" as="geometry" />
+          <mxGeometry x="450" y="570" width="270" height="240" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-16" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-15">
           <mxGeometry width="270" height="240" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-17" value="CMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;comic=1;sketch=0;jiggle=1;fontFamily=Verdana;fontSize=5;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-15">
           <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/multimedia-flat-19/32/Photo-128.png" vertex="1" parent="784cbDrwxi_V3fQU1oRy-15">
+          <mxGeometry x="20" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="280" width="270" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-21" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-20">
+          <mxGeometry x="-10" width="270" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-22" value="Frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;comic=1;sketch=0;jiggle=1;fontFamily=Verdana;fontSize=5;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-20">
+          <mxGeometry x="17" y="3" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-24" value="Bluecore Nginx" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="784cbDrwxi_V3fQU1oRy-20">
+          <mxGeometry x="50" y="50" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-25" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="784cbDrwxi_V3fQU1oRy-20">
+          <mxGeometry x="160" y="50" width="38" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
