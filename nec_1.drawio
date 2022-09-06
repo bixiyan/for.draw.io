@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T07:09:25.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GcSz9wlsACjOl7fLlsOR" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T07:10:54.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GSKqf-bc4G_UJuoiAW1u" version="20.2.8" type="github">
   <diagram id="SoZa_4AcdHNvvdQ_9TMP" name="第 1 页">
     <mxGraphModel dx="1497" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-47" value="zk*3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-13-128.png" vertex="1" parent="784cbDrwxi_V3fQU1oRy-49">
           <mxGeometry x="31" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;Subnet-csvc01(10.138.4.*)&lt;/span&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="39" y="120" width="341" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
