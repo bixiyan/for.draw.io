@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T06:24:55.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XwK7XKXB7lCf1f-zhRLz" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T06:52:10.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="o4PNY83jmqhzfuHvzXIJ" version="20.2.8" type="github">
   <diagram id="SoZa_4AcdHNvvdQ_9TMP" name="第 1 页">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="314.9883116883117" y="66" width="64.61298701298702" height="64.61298701298702" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="29" y="570" width="307" height="281" as="geometry" />
+          <mxGeometry x="29" y="540" width="307" height="281" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-13" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
           <mxGeometry width="270" height="240" as="geometry" />
@@ -34,20 +34,20 @@
         <mxCell id="784cbDrwxi_V3fQU1oRy-14" value="ELK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;comic=1;sketch=0;jiggle=1;fontFamily=Verdana;fontSize=5;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
           <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="784cbDrwxi_V3fQU1oRy-18" value="ElasticSearch" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticsearch_service;fillColor=#F58534;gradientColor=none;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
+        <mxCell id="784cbDrwxi_V3fQU1oRy-18" value="ElasticSearch*6" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticsearch_service;fillColor=#F58534;gradientColor=none;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
           <mxGeometry x="30" y="40" width="51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-37" value="kibana" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/staging-site-128.png" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
-          <mxGeometry x="138.5" y="43" width="50" height="50" as="geometry" />
+          <mxGeometry x="31" y="140.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-38" value="kafka*3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
-          <mxGeometry x="30" y="140" width="60" height="60" as="geometry" />
+          <mxGeometry x="178.5" y="72.5" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-40" value="zk*3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-13-128.png" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
-          <mxGeometry x="128.5" y="140" width="60" height="60" as="geometry" />
+          <mxGeometry x="178.5" y="160" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-41" value="logstash" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.component;direction=west;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-12">
-          <mxGeometry x="237" y="93" width="70" height="75" as="geometry" />
+          <mxGeometry x="251" y="72.5" width="70" height="118" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="450" y="570" width="270" height="240" as="geometry" />
@@ -81,6 +81,21 @@
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-31" value="public*2" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="784cbDrwxi_V3fQU1oRy-20">
           <mxGeometry x="106" y="140" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="160" width="121" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-42" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-49">
+          <mxGeometry width="121" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-43" value="MSG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;comic=1;sketch=0;jiggle=1;fontFamily=Verdana;fontSize=5;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-49">
+          <mxGeometry x="10" y="3" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-46" value="kafka*3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-49">
+          <mxGeometry x="31" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-47" value="zk*3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-13-128.png" vertex="1" parent="784cbDrwxi_V3fQU1oRy-49">
+          <mxGeometry x="31" y="150" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
