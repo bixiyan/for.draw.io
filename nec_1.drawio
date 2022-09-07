@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T03:20:12.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="nVRV_1_BxasnmYMcucoP" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T03:28:08.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="X_3VZnDlpF46v6cbf7fl" version="20.2.8" type="github">
   <diagram id="SoZa_4AcdHNvvdQ_9TMP" name="第 1 页">
     <mxGraphModel dx="1237" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
           <mxGeometry x="35" y="56.67" width="51" height="53.33" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="213.5" y="425" width="400" height="230" as="geometry" />
+          <mxGeometry x="213.5" y="430" width="400" height="230" as="geometry" />
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-68" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;dashed=1;enumerate=0;comic=1;jiggle=1;treeMoving=0;treeFolding=0;deletable=1;rotatable=0;noLabel=0;shadow=1;sketch=0;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-67">
           <mxGeometry width="400" height="230" as="geometry" />
@@ -120,6 +120,18 @@
         </mxCell>
         <mxCell id="784cbDrwxi_V3fQU1oRy-71" value="Lenovo email *2" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-67">
           <mxGeometry x="40" y="54.117647058823536" width="30" height="22.323529411764707" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-73" value="Lenovo ejob" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/notes_job_seeker_employee_unemployee_work-128.png" vertex="1" parent="784cbDrwxi_V3fQU1oRy-67">
+          <mxGeometry x="146.5" y="45" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-82" value="dubbo admin" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="784cbDrwxi_V3fQU1oRy-67">
+          <mxGeometry x="316.5" y="54" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-83" value="kafka monitor" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="784cbDrwxi_V3fQU1oRy-67">
+          <mxGeometry x="316.5" y="140" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="784cbDrwxi_V3fQU1oRy-81" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="360" y="780" width="50" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
